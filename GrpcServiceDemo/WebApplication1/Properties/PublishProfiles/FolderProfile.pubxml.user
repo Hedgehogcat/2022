@@ -5,6 +5,6 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>F:\2022\GrpcServiceDemo\WebApplication1\bin\Release\net6.0\publish\</_PublishTargetUrl>
-    <History>True|2022-07-08T07:24:24.2702197Z;</History>
+    <History>True|2022-07-08T11:12:57.3381083Z;True|2022-07-08T19:12:33.5262862+08:00;True|2022-07-08T15:24:24.2702197+08:00;</History>
   </PropertyGroup>
 </Project>
