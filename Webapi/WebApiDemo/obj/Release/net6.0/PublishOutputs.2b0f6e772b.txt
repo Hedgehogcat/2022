@@ -1,0 +1,12 @@
+D:\2022\Webapi\WebApiDemo\obj\Release\net6.0\PubTmp\Out\Dockerfile
+D:\2022\Webapi\WebApiDemo\obj\Release\net6.0\PubTmp\Out\WebApiDemo.exe
+D:\2022\Webapi\WebApiDemo\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\2022\Webapi\WebApiDemo\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\2022\Webapi\WebApiDemo\obj\Release\net6.0\PubTmp\Out\WebApiDemo.dll
+D:\2022\Webapi\WebApiDemo\obj\Release\net6.0\PubTmp\Out\WebApiDemo.deps.json
+D:\2022\Webapi\WebApiDemo\obj\Release\net6.0\PubTmp\Out\WebApiDemo.runtimeconfig.json
+D:\2022\Webapi\WebApiDemo\obj\Release\net6.0\PubTmp\Out\WebApiDemo.pdb
+D:\2022\Webapi\WebApiDemo\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\2022\Webapi\WebApiDemo\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\2022\Webapi\WebApiDemo\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\2022\Webapi\WebApiDemo\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
