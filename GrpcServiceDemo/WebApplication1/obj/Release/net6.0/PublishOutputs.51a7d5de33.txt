@@ -1,0 +1,16 @@
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\Dockerfile
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.exe
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.dll
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.pdb
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\Google.Protobuf.dll
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\Grpc.Core.Api.dll
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\Grpc.Net.Client.dll
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\Grpc.Net.Common.dll
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\2022\GrpcServiceDemo\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.deps.json

@@ -1,0 +1,15 @@
+F:\2022\GrpcServiceDemo\GrpcService1\obj\Release\net6.0\PubTmp\Out\Dockerfile
+F:\2022\GrpcServiceDemo\GrpcService1\obj\Release\net6.0\PubTmp\Out\GrpcService1.exe
+F:\2022\GrpcServiceDemo\GrpcService1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+F:\2022\GrpcServiceDemo\GrpcService1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+F:\2022\GrpcServiceDemo\GrpcService1\obj\Release\net6.0\PubTmp\Out\GrpcService1.dll
+F:\2022\GrpcServiceDemo\GrpcService1\obj\Release\net6.0\PubTmp\Out\GrpcService1.deps.json
+F:\2022\GrpcServiceDemo\GrpcService1\obj\Release\net6.0\PubTmp\Out\GrpcService1.runtimeconfig.json
+F:\2022\GrpcServiceDemo\GrpcService1\obj\Release\net6.0\PubTmp\Out\GrpcService1.pdb
+F:\2022\GrpcServiceDemo\GrpcService1\obj\Release\net6.0\PubTmp\Out\Google.Protobuf.dll
+F:\2022\GrpcServiceDemo\GrpcService1\obj\Release\net6.0\PubTmp\Out\Grpc.AspNetCore.Server.dll
+F:\2022\GrpcServiceDemo\GrpcService1\obj\Release\net6.0\PubTmp\Out\Grpc.AspNetCore.Server.ClientFactory.dll
+F:\2022\GrpcServiceDemo\GrpcService1\obj\Release\net6.0\PubTmp\Out\Grpc.Core.Api.dll
+F:\2022\GrpcServiceDemo\GrpcService1\obj\Release\net6.0\PubTmp\Out\Grpc.Net.Client.dll
+F:\2022\GrpcServiceDemo\GrpcService1\obj\Release\net6.0\PubTmp\Out\Grpc.Net.ClientFactory.dll
+F:\2022\GrpcServiceDemo\GrpcService1\obj\Release\net6.0\PubTmp\Out\Grpc.Net.Common.dll
