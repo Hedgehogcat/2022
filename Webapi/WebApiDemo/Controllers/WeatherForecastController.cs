@@ -52,7 +52,7 @@ namespace WebApiDemo.Controllers
         /// <param name="id"></param>
         /// <returns></returns>
         [HttpPost]
-        public IEnumerable<WeatherForecast> GetArticleDetail2(int id)
+        public IEnumerable<WeatherForecast> GetArticleDetail23(int id)
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
