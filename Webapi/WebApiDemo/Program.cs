@@ -15,9 +15,14 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+app.MapGet("/api/test123456", () =>
+{
+    return new User(122123456, "Gerry");
+});
 
 app.UseAuthorization();
 
 app.MapControllers();
 
 app.Run();
+record User(int UserId, string UserName);
